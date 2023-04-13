@@ -1,0 +1,104 @@
+2023-02-27 12:57:42,808 : INFO : test_e2e : Getting all the card titles
+2023-02-27 12:57:42,847 : INFO : test_e2e : iphone X
+2023-02-27 12:57:42,856 : INFO : test_e2e : Samsung Note 8
+2023-02-27 12:57:42,866 : INFO : test_e2e : Nokia Edge
+2023-02-27 12:57:42,876 : INFO : test_e2e : Blackberry
+2023-02-27 12:57:42,910 : INFO : test_e2e : You have added Blackberry to the cart
+2023-02-27 12:57:43,001 : INFO : test_e2e : Proceeding to Checkout page
+2023-02-27 12:57:43,062 : INFO : test_e2e : Entering country name as 'lan'
+2023-02-27 12:57:48,838 : INFO : test_e2e : Text received from application is: '×
+Success! Thank you! Your order will be delivered in next few weeks :-).'
+2023-02-27 12:59:46,126 : INFO : test_form_submission : Name is Neil
+2023-03-21 23:57:01,546 : INFO : test_e2e : Getting all the card titles
+2023-03-21 23:57:01,639 : INFO : test_e2e : iphone X
+2023-03-21 23:57:01,651 : INFO : test_e2e : Samsung Note 8
+2023-03-21 23:57:01,668 : INFO : test_e2e : Nokia Edge
+2023-03-21 23:57:01,689 : INFO : test_e2e : Blackberry
+2023-03-21 23:57:01,728 : INFO : test_e2e : You have added Blackberry to the cart
+2023-03-21 23:57:02,564 : INFO : test_e2e : Proceeding to Checkout page
+2023-03-21 23:57:02,673 : INFO : test_e2e : Entering country name as 'lan'
+2023-03-21 23:57:08,209 : INFO : test_e2e : Text received from application is: '×
+Success! Thank you! Your order will be delivered in next few weeks :-).'
+2023-03-30 12:53:39,591 : INFO : test_e2e : Getting all the card titles
+2023-03-30 12:53:39,701 : INFO : test_e2e : iphone X
+2023-03-30 12:53:39,711 : INFO : test_e2e : Samsung Note 8
+2023-03-30 12:53:39,720 : INFO : test_e2e : Nokia Edge
+2023-03-30 12:53:39,730 : INFO : test_e2e : Blackberry
+2023-03-30 12:53:39,765 : INFO : test_e2e : You have added Blackberry to the cart
+2023-03-30 12:53:40,304 : INFO : test_e2e : Proceeding to Checkout page
+2023-03-30 12:53:40,365 : INFO : test_e2e : Entering country name as 'lan'
+2023-03-30 12:53:45,867 : INFO : test_e2e : Text received from application is: '×
+Success! Thank you! Your order will be delivered in next few weeks :-).'
+2023-04-13 11:17:48,862 : INFO : test_form_submission : Name is Neil
+2023-04-13 11:28:06,310 : INFO : test_form_submission : Name is Neil
+2023-04-13 11:28:25,588 : INFO : test_e2e : Getting all the card titles
+2023-04-13 11:28:25,658 : INFO : test_e2e : iphone X
+2023-04-13 11:28:25,752 : INFO : test_e2e : Samsung Note 8
+2023-04-13 11:28:25,793 : INFO : test_e2e : Nokia Edge
+2023-04-13 11:28:26,174 : INFO : test_e2e : Blackberry
+2023-04-13 11:28:26,517 : INFO : test_e2e : You have added Blackberry to the cart
+2023-04-13 11:28:27,222 : INFO : test_e2e : Proceeding to Checkout page
+2023-04-13 11:28:27,836 : INFO : test_e2e : Entering country name as 'lan'
+2023-04-13 11:28:33,701 : INFO : test_e2e : Text received from application is: '×
+Success! Thank you! Your order will be delivered in next few weeks :-).'
+2023-04-13 11:31:54,591 : INFO : test_e2e : Getting all the card titles
+2023-04-13 11:31:54,610 : INFO : test_e2e : iphone X
+2023-04-13 11:31:54,615 : INFO : test_e2e : Samsung Note 8
+2023-04-13 11:31:54,619 : INFO : test_e2e : Nokia Edge
+2023-04-13 11:31:54,624 : INFO : test_e2e : Blackberry
+2023-04-13 11:31:54,847 : INFO : test_e2e : You have added Blackberry to the cart
+2023-04-13 11:31:55,065 : INFO : test_e2e : Proceeding to Checkout page
+2023-04-13 11:31:55,446 : INFO : test_e2e : Entering country name as 'lan'
+2023-04-13 11:32:01,209 : INFO : test_e2e : Text received from application is: '×
+Success! Thank you! Your order will be delivered in next few weeks :-).'
+2023-04-13 11:35:37,866 : INFO : test_e2e : Getting all the card titles
+2023-04-13 11:35:37,892 : INFO : test_e2e : iphone X
+2023-04-13 11:35:37,903 : INFO : test_e2e : Samsung Note 8
+2023-04-13 11:35:37,914 : INFO : test_e2e : Nokia Edge
+2023-04-13 11:35:37,923 : INFO : test_e2e : Blackberry
+2023-04-13 11:35:37,958 : INFO : test_e2e : You have added Blackberry to the cart
+2023-04-13 11:35:38,001 : INFO : test_e2e : Proceeding to Checkout page
+2023-04-13 11:35:38,062 : INFO : test_e2e : Entering country name as 'lan'
+2023-04-13 11:35:43,328 : INFO : test_e2e : Text received from application is: '×
+Success! Thank you! Your order will be delivered in next few weeks :-).'
+2023-04-13 11:40:32,398 : INFO : test_e2e : Getting all the card titles
+2023-04-13 11:40:32,421 : INFO : test_e2e : iphone X
+2023-04-13 11:40:32,430 : INFO : test_e2e : Samsung Note 8
+2023-04-13 11:40:32,439 : INFO : test_e2e : Nokia Edge
+2023-04-13 11:40:32,449 : INFO : test_e2e : Blackberry
+2023-04-13 11:40:32,480 : INFO : test_e2e : You have added Blackberry to the cart
+2023-04-13 11:40:32,522 : INFO : test_e2e : Proceeding to Checkout page
+2023-04-13 11:40:32,581 : INFO : test_e2e : Entering country name as 'lan'
+2023-04-13 11:40:37,793 : INFO : test_e2e : Text received from application is: '×
+Success! Thank you! Your order will be delivered in next few weeks :-).'
+2023-04-13 11:41:44,263 : INFO : test_e2e : Getting all the card titles
+2023-04-13 11:41:44,288 : INFO : test_e2e : iphone X
+2023-04-13 11:41:44,298 : INFO : test_e2e : Samsung Note 8
+2023-04-13 11:41:44,308 : INFO : test_e2e : Nokia Edge
+2023-04-13 11:41:44,317 : INFO : test_e2e : Blackberry
+2023-04-13 11:41:44,350 : INFO : test_e2e : You have added Blackberry to the cart
+2023-04-13 11:41:44,394 : INFO : test_e2e : Proceeding to Checkout page
+2023-04-13 11:41:44,453 : INFO : test_e2e : Entering country name as 'lan'
+2023-04-13 11:41:49,711 : INFO : test_e2e : Text received from application is: '×
+Success! Thank you! Your order will be delivered in next few weeks :-).'
+2023-04-13 11:52:48,179 : INFO : test_e2e : Getting all the card titles
+2023-04-13 11:52:48,208 : INFO : test_e2e : iphone X
+2023-04-13 11:52:48,220 : INFO : test_e2e : Samsung Note 8
+2023-04-13 11:52:48,233 : INFO : test_e2e : Nokia Edge
+2023-04-13 11:52:48,249 : INFO : test_e2e : Blackberry
+2023-04-13 11:52:48,298 : INFO : test_e2e : You have added Blackberry to the cart
+2023-04-13 11:52:48,354 : INFO : test_e2e : Proceeding to Checkout page
+2023-04-13 11:52:48,430 : INFO : test_e2e : Entering country name as 'lan'
+2023-04-13 11:52:53,755 : INFO : test_e2e : Text received from application is: '×
+Success! Thank you! Your order will be delivered in next few weeks :-).'
+2023-04-13 11:53:25,807 : INFO : test_form_submission : Name is Neil
+2023-04-13 11:53:31,210 : INFO : test_e2e : Getting all the card titles
+2023-04-13 11:53:31,236 : INFO : test_e2e : iphone X
+2023-04-13 11:53:31,247 : INFO : test_e2e : Samsung Note 8
+2023-04-13 11:53:31,264 : INFO : test_e2e : Nokia Edge
+2023-04-13 11:53:31,271 : INFO : test_e2e : Blackberry
+2023-04-13 11:53:31,314 : INFO : test_e2e : You have added Blackberry to the cart
+2023-04-13 11:53:31,360 : INFO : test_e2e : Proceeding to Checkout page
+2023-04-13 11:53:31,420 : INFO : test_e2e : Entering country name as 'lan'
+2023-04-13 11:53:36,699 : INFO : test_e2e : Text received from application is: '×
+Success! Thank you! Your order will be delivered in next few weeks :-).'
